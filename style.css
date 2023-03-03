@@ -40,10 +40,7 @@ h2 {
 footer {
   text-align: center;
 }
-body {background-image: linear-gradient(    #ffccf8,
-    #a3eaff,
-    #6da9e9,
-    #ff7272,
-    #f6ff93,
-    #ffdada,
-    #f5b7ff);}
+body {
+  background: linear-gradient(#ffe6eb, #defcfc, #cbf1f5, #a6e3e9);
+}
+
